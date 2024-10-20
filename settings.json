@@ -1,0 +1,28 @@
+{
+  // 一般常用
+  "editor.tabSize": 4, // 請同學使用 記事本 or Word 開起來打看看
+  "editor.copyWithSyntaxHighlighting": false, // 不要複製背景
+  "editor.mouseWheelZoom": true, // 可使用滑鼠 zoom
+  "markdown.preview.doubleClickToSwitchToEditor": false, // md 點兩下後不跳回原檔案"markdown.preview.doubleClickToSwitchToEditor": false // md 點兩下後不跳回原檔案
+  "editor.multiCursorLimit": 50000, // 可同時選取的游標上限數量
+  // 特定檔案編輯操作
+  "[json][jsonc]": {
+    "editor.tabSize": 2
+  },
+  // 擴充套件 - TODO highlight
+  "todohighlight.keywords": [
+    {
+      "text": "WARNING:",
+      "backgroundColor": "orange"
+    }
+  ],
+  // 擴充套件 - Material Icon Theme
+  "workbench.iconTheme": "material-icon-theme",
+  // 擴充套件 - powermode
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "powermode.combo.location": "off",
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.shake.enabled": false
+}
