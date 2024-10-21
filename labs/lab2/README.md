@@ -16,4 +16,4 @@
 
 # Reference
 
-https://docs.google.com/spreadsheets/d/1eUxSGm84sLTV8L90DkM5EeoHu1-DUxK-HP6vNaBUcSg/edit?gid=1043430510#gid=1043430510
+https://docs.google.com/spreadsheets/d/1eUxSGm84sLTV8L90DkM5EeoHu1-DUxK-HP6vNaBUcSg/edit?usp=sharing

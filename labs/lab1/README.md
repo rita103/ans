@@ -17,3 +17,7 @@
 上頭紀錄著, 台中店內的機器人 激活/休眠 的事件紀錄....
 
 NOTE: 然後同事告訴你, 這一份檔案的時區為 UTC (你需要自行調整成 Taipei 的時間)
+
+# Reference
+
+https://docs.google.com/spreadsheets/d/1eUxSGm84sLTV8L90DkM5EeoHu1-DUxK-HP6vNaBUcSg/edit?usp=sharing
