@@ -1,8 +1,12 @@
 {
   // 一般常用
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
   "editor.tabSize": 4, // 請同學使用 記事本 or Word 開起來打看看
+  "editor.tabCompletion": "on",
   "editor.copyWithSyntaxHighlighting": false, // 不要複製背景
   "editor.mouseWheelZoom": true, // 可使用滑鼠 zoom
+  "files.autoSave": "onFocusChange",  // 切換畫面以後, 檔案會自動儲存
   "markdown.preview.doubleClickToSwitchToEditor": false, // md 點兩下後不跳回原檔案"markdown.preview.doubleClickToSwitchToEditor": false // md 點兩下後不跳回原檔案
   "editor.multiCursorLimit": 50000, // 可同時選取的游標上限數量
   // 特定檔案編輯操作
