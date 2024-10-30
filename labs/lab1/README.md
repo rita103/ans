@@ -1,4 +1,4 @@
-# Description
+# 問題描述
 
 WARNING: 此題偏難! 不過如果你能拿捏知道怎麼操作了的話, 基本上課堂上應該不會有東西能難倒你了
 
@@ -20,6 +20,23 @@ WARNING: 此題偏難! 不過如果你能拿捏知道怎麼操作了的話, 基�
 
 NOTE: 然後同事告訴你, 這一份檔案的時區為 UTC (你需要自行調整成 Taipei 的時間)
 
-# Reference
+# 問題
+
+## 1. 哪個時段的來客數最多(也就是機器人最多)?
+
+- A. 12:00 ~ 13:00
+- B. 18:00 ~ 19:00
+- C. 19:00 ~ 20:00
+- D. 10:00 ~ 11:00
+
+這題是選擇題, 答案僅需選擇 A/B/C/D 其中一個, 並儲存到 `labs/lab1/answer1a.txt`. 例如:
+
+```txt
+C
+```
+
+# 參考作法
 
 https://docs.google.com/spreadsheets/d/1eUxSGm84sLTV8L90DkM5EeoHu1-DUxK-HP6vNaBUcSg/edit?usp=sharing
+
+`機器人數量` 工作表
